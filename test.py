@@ -37,4 +37,4 @@ public class Main {
         p1.show();
         p2.show();
     }
-}
+}print('Hello Git')
